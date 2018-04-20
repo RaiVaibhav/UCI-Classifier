@@ -1,4 +1,4 @@
-# UCI Classifer
+# UCI Iris Classifer
 
 The main aim of this project was to compare the accuracy of various classifier using
 UCI Iris Dataset.

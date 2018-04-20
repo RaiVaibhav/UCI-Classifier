@@ -8,7 +8,11 @@ used to plot the clusters.
 
 ## Install Library and Run the classifer.
 
-`Note: It checked using python-3`
+Download it as a zip file or directly clone this repository using.
+- `git clone https://github.com/RaiVaibhav/UCI-Classifier.git` 
+-  Now move into the downloaded/cloned folder using **>>**`$ cd UCI-Classifier`
+-  Install all the requirements **>>**`$pip3 install -r requirements.txt`
+-  Now run the code **>>**`$python3 Classifier.py` to get the desired result 
 
-- `$pip3 install -r requirements.txt`
-- `$python3 Classifier.py`
+`Note: Code is working with python-3 on Linux platform`
+

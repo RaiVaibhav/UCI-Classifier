@@ -11,3 +11,4 @@ used to plot the clusters.
 `Note: It checked only on python-3`
 
 - `$pip3 install -r requirements.txt`
+- `python3 Classifier.py`

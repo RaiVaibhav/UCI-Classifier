@@ -8,7 +8,7 @@ used to plot the clusters.
 
 ## Install Library and Run the classifer.
 
-`Note: It checked only on python-3`
+`Note: It checked using python-3`
 
 - `$pip3 install -r requirements.txt`
-- `python3 Classifier.py`
+- `$python3 Classifier.py`
